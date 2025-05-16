@@ -78,9 +78,9 @@ The example mimics real-world scenarios like working with APIs, file systems, or
 ## 🗂️ Project Structure
 
 ```plaintext
-├── Q1_downloading_promise.js # Simulates downloading data using Promises
-├── Q2_writing_promise.js # Simulates writing data to a file using Promises
-├── Q3_uploading_promise.js # Simulates uploading a file using Promises
+├── Downloading_promise.js # Simulates downloading data using Promises
+├── Writing_promise.js # Simulates writing data to a file using Promises
+├── Uploading_promise.js # Simulates uploading a file using Promises
 ├── Combined_promise.js # Chains all three steps 
 └── README.md # Documentation file 
 
