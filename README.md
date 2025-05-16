@@ -26,7 +26,7 @@ Promises help manage asynchronous code in a more elegant and maintainable way. T
 
 ## 📁 Files Overview
 
-### `Q1_downloading_promise.js`
+### `Downloading_promise.js`
 > This file simulates downloading data from a given URL using a Promise.
 
 - Logs when the download starts.
@@ -36,7 +36,7 @@ Promises help manage asynchronous code in a more elegant and maintainable way. T
 
 ---
 
-### `Q2_writing_promise.js`
+### `Writing_promise.js`
 > This file simulates writing the downloaded data into a file.
 
 - Logs the start of the writing process.
@@ -45,7 +45,7 @@ Promises help manage asynchronous code in a more elegant and maintainable way. T
 
 ---
 
-### `Q3_uploading_promise.js`
+### `Uploading_promise.js`
 > This file simulates uploading the written file to a remote server.
 
 - Logs the start and end of the uploading process.
